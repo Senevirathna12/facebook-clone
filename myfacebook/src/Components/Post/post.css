@@ -35,6 +35,7 @@
     box-shadow: 5px 5px 8px 5px rgba(0,0,0,0.3);
     margin: 30px 10px;
     border-radius: 10px;
+    width: 95%;
 }
 
 .postedImage{
@@ -44,8 +45,8 @@
 }
 
 .reactionPic{
-    width: 24px;
-    height: 24px;
+    width: 30px;
+    height: 30px;
     margin-left: 1px;
     cursor: pointer;
     margin-bottom: 1px;
@@ -58,11 +59,14 @@
     display: flex;
     margin-left: 5px;
     justify-content: space-between;
+    margin-bottom: 10px;
 }
 
 .postBottomLeft{
     display: flex;
     align-items: center;
+    margin-bottom: 10px;
+
 }
 
 .likeCount{
